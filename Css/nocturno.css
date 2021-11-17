@@ -1,0 +1,147 @@
+body {
+    background: #000000;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+button {
+    color: #ffffff;
+    border-bottom: #e0e0e0;
+    background-color: #1b1b1b;
+}
+
+.nav-main {
+    background-color: #1d1d1d;
+}
+
+.nav-main ul li button:hover {
+    border-bottom: 1px solid #181717;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.barra-busqueda input {
+    color: #fdfdfd;
+    border: 1px solid #2e2e2e;
+    background-color: #070707;
+}
+
+.barra-busqueda button {
+    border: 1px solid #000000;
+}
+
+.form-login,
+.olvido-contraseña {
+  background: #fdfdfd;
+  box-shadow: 7px 13px 37px #292929;
+  border-top: 4px solid #017bab;
+  color: black;
+}
+
+.form-login h5,
+.olvido-contraseña h5 {
+  color: #000000;
+}
+
+.controls {
+    border: 1px solid black;
+    background: #c7c7c7;
+    color: #000000;
+}
+
+.ingresar {
+    background: #000000;
+    color: #ffffff;
+}
+
+.form-login a,
+.olvido-contraseña a {
+  color: #0400ff;
+}
+
+.Lista_superior,
+.Lista_inferior {
+  background-color: #1b1b1b;
+}
+
+.Lista_superior img,
+.Lista_inferior img {
+  background-color: #000000;
+  color: #000000;
+} 
+
+.interes ul li img:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.titulo_intereses {
+    background-color: #1b1b1b;
+}
+
+.avatar{
+    background-color: #000000;
+}
+
+.barra-opciones {
+    background-color: #080808;
+}
+
+.barra-opciones ul li button:hover {
+    border-bottom: 1px solid #000005;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.youtuber {
+    background-color: #000000;
+}
+
+.canales img:hover {
+    border: 3px solid #ffffff;
+    background-color: #000000;
+    color: #000000;
+}
+
+.visualizacion-videos div a img:hover {
+    border: 1px solid #ffffff;
+}
+
+figcaption {
+    color: #ffffff;
+}
+
+figcaption p {
+    color: #808080;
+}
+
+.filtros {
+    background: #181717;
+}
+
+.filtros li a:hover {
+    border-bottom: 1px solid #fdfdfd;
+    color: #6200ff;
+}
+
+.calendario {
+    background: #525151;
+}
+
+.reproducir_video ul li button:hover {
+    border-bottom: 1px solid #181717;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.barra_comentario {
+    background-color: #181717;
+    color: #ffffff;
+}
+
+.videos_similares li figure a img.img_video_similares {
+    border:white solid 1px;
+}
