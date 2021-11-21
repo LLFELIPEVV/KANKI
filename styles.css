@@ -567,3 +567,12 @@ div.g-ytsubscribe {
 .abrir_videos_similares {
   display: grid;
 }
+
+.logo {
+  font-size: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a.logo i {
+  padding: 0px 5px;
+}

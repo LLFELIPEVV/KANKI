@@ -145,3 +145,11 @@ figcaption p {
 .videos_similares li figure a img.img_video_similares {
     border:black solid 1px;
 }
+
+.logo {
+    color: #000000;
+}
+
+a.logo i {
+    color: #3e9400;
+}
